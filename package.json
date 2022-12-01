@@ -1,0 +1,23 @@
+{
+  "name": "teste_pratico_desbravador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azzi77/teste_pratico_desbravador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azzi77/teste_pratico_desbravador/issues"
+  },
+  "homepage": "https://github.com/Azzi77/teste_pratico_desbravador#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
