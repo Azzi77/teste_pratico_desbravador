@@ -17,7 +17,7 @@ it('Acessar a pagina desbravador e efetuar o cadastro de um usuário', function 
  /*   
       
     var usuário = {  // a minha intenção era usar uma variavel  para criar uma masssa de dados, porem estava gerando
-                    // um erro que precisei usar o {force: true }para forçar o preenchimento do formulario.
+                    // um erro que não consegui resolver e precisei usar o {force: true }para forçar o preenchimento do formulario.
       
       email:'reginaazzi@hotmail.com',
       senha:'123456',
